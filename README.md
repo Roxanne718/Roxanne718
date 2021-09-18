@@ -4,10 +4,13 @@ Glad to get your attention and please contact **froxanne1024[at]gmail[dot]com** 
 ## Skills
 
 🍉 C++
+
 🍇 Python
+
 🍓 TypeScript & JavaScript
 
 ## Interests
 
 🥑 Deep Learning
+
 🦀 Auto DL

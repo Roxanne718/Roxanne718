@@ -1,4 +1,4 @@
-Hello here！😆 This is Fairy, graduate student of Nankai University, majored in Neural Architecture Search(NAS)🧐.
+Hello here！😆 This is Fairy, graduate student of Nankai University, majored in deep learning🧐.
 Glad to get your attention and please contact **froxanne1024[at]gmail[dot]com** for cooperation or questions🤗.
 
 ## Skills
